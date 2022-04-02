@@ -10,7 +10,7 @@ const Footer = () => {
     >
       Made with <span style={{color:"red"}}>&#10084;</span> by{" "}
       <a
-        href="https://www.youtube.com/roadsidecoder"
+        href="https://www.abhay-bhongade.netlify.app"
         style={{ cursor: "pointer" }}
       >
         Abhay
